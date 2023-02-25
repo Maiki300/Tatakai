@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.Owner = ['14157614157']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['14157614157']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['14157614157']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "ichido"
+global.packname = "ichido bot"
+global.author = "By: lieutenant"
+global.OwnerName = "lieutenant"
+global.BotSourceCode = "https://github.com/maiki300/Tatakai" // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/HlcNZGB7ZNJE1Fe20r5nJM"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
@@ -23,11 +23,11 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.location = "Yokohama,japan"
+global.reactmoji = "🖕"
+global.themeemoji = "🏴‍☠️"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/maiki300"
 global.lolhuman = "KaysaS"
 
 
@@ -58,19 +58,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    jobdone: 'Yoku dekimashita..',
+    useradmin: 'Do i have to tell you everything 🥲, only *Group Admins* can use this command *Baka*!',
+    botadmin: 'make me *Admin* If you want to cooperate.',
+    botowner: 'Only lieutenant the *Owner* can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
-    botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
+    botonly: 'Only ichido the *Bot itself* can use this command!',
+    waiting: 'sabar...',
+    nolink: 'provide me *link*, Baka!',
     error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    
     
 }
 
