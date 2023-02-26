@@ -26,7 +26,7 @@ global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 global.location = "Yokohama,japan"
 global.reactmoji = "🖕"
 global.themeemoji = "🏴‍☠️"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
+global.vidmenu = { url: 'https://tenor.com/bDPwe.gif' }
 global.websitex = "https://github.com/maiki300"
 global.lolhuman = "KaysaS"
 
